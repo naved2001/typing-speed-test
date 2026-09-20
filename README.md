@@ -49,7 +49,7 @@ The project uses `msvcrt` and `winsound`, which are Windows-specific Python modu
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/naved2001/typing-speed-test
 ```
 
 Open the project:
